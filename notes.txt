@@ -1,0 +1,19 @@
+---------------------------
+===>> project creation command
+npx create-react-app exam-result-analysis 
+
+
+---------------------------
+==>> External Package Installed list
+npm install sass-loader sass webpack --save-dev
+
+---------------------------
+
+
+---------------------------
+
+
+---------------------------
+
+
+---------------------------
