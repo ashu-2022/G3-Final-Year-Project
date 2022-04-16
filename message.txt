@@ -1,0 +1,19 @@
+git clone repo_url
+npm i
+
+npm i sass-loader sass webpack --save-dev
+npm i react-bootstrap bootstrap react-router-dom firebase
+
+git checkout -b [ New-Branch-Name ]
+
+git add .
+git add [ file-name ]
+
+git commit -m "Commit Changes Done Message"
+
+git pull origin master
+
+git push -u orign [ current-branch-name ]
+Go to github web and make a Pull Request from you branch to master
+
+
